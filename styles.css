@@ -1,0 +1,21 @@
+#logo {
+    height: auto;
+    width: 700px;
+    display: block;
+    margin: 0 auto;
+}
+
+#title {
+    text-align: center;
+    font-weight: bold;
+    color: purple;
+    background-color: yellow;
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+.recipe-link {
+    color: blue;
+    font-size: 20px;
+    
+}
